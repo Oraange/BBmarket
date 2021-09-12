@@ -58,16 +58,16 @@
 - 로그인
   - 비밀번호 암호화(bcrypt)
   - 로그인시 토큰 발행(Json Web Token)
-  - <span style="color:purple">토큰 만료 시간 설정</span>
+  - **토큰 만료 시간 설정**
 - 메인 페이지
   - 상품 목록 조회 기능
 - 상세 페이지
   - 상품 상세 정보 조회 기능
-  - <span style="color:purple">관련 상품 조회 기능</span>
-- <span style="color:purple">장바구니</span>
-  - <span style="color:purple">장바구니 담기 기능</span>
-  - <span style="color:purple">장바구니 목록 조회 기능</span>
-  - <span style="color:purple">장바구니 수량 업데이트 기능</span>
-  - <span style="color:purple">장바구니 선택 삭제 기능</span>
+  - **관련 상품 조회 기능**
+- **장바구니**
+  - **장바구니 담기 기능**
+  - **장바구니 목록 조회 기능**
+  - **장바구니 수량 업데이트 기능**
+  - **장바구니 선택 삭제 기능**
   
 
